@@ -1,4 +1,1 @@
----
-permalink: /careers
----
-Careers
+# Careers

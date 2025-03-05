@@ -13,5 +13,3 @@ Saavant is open to exploring partnerships that align with the mission to empower
 
 ### How to Connect
 Email your idea or proposal to [📧 info@saavant.com](mailto:info@saavant.com)  . Saavant looks forward to hearing from you!
-
-[Contact Us](contact-us)

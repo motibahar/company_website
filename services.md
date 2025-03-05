@@ -19,4 +19,4 @@ Saavant offers architectural mastery, tech selection, and system refinement for 
 ### Ready to Start?
 Reach out to explore these services.
 
-[Contact Us](contact-us)
+[Contact Us](contact-us) | [Opportunities](opportunities)

@@ -1,6 +1,6 @@
 ## About Us
 
-### Who Saavant Is
+### Who We Are
 Saavant is a forward-thinking software company dedicated to providing exceptional SaaS solutions, software development, and consulting services. Built on a foundation of innovation and excellence, Saavant partners with businesses of all sizes to address complex challenges and foster sustainable growth.
 
 ### The Mission
